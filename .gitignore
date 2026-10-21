@@ -1,0 +1,9 @@
+# Secrets never belong in a campaign.
+.env
+
+# The Scribe's database and working data. Whether the database should be
+# committed is still an open question, so it is excluded for now.
+.scribe/
+
+# Zip snapshots, used only when the campaign is not a git repository.
+.campaign/snapshots/
