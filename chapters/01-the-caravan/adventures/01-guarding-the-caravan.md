@@ -6,7 +6,7 @@ A coach driver hires the party in a Millbrook tavern to guard his caravan on the
 
 ## Background
 
-The Rook is a greedy warlord who wants to control the region and every coin of trade that moves through it. From an old toll fort in the hills, his gang, the Crows, have taken over the Old Trade Road between Millbrook and Harrowgate. They make every traveler pay "the Rook's toll": one wagon in three, or fifty gold a wagon.
+The Rook is a greedy warlord who wants to be the only boss in the region, with every gang, merchant, and coin answering to him. He sees himself as a king. From Ashwatch, an old toll fort deep in the Ashwood, his gang, the Crows, have taken over the Old Trade Road between Millbrook and Harrowgate. They make every traveler pay "the Rook's toll": one wagon in three, or fifty gold a wagon.
 
 **Marsh Freight**, a small caravan company based in Harrowgate, refused to pay. The Rook has decided to make an example of them. Its owner, **Hester Marsh**, has sent her cousin **Tobin** to bring a caravan back from Millbrook. Tobin knows the Crows will come for him, so he is looking for guards.
 
@@ -69,7 +69,8 @@ Give the players a reason to like Tobin before he dies. Around the fire, he:
 After Tobin's death, the teamsters are shaken.
 
 - **Wil** wants to turn back to Millbrook. Petra wants to go on: "Tobin would've gone on." The party decides. Going back means a day and a half on the road the Crows know well, and so does going on.
-- **Petra** takes Tobin's place at the reins. She asks the party to keep Tobin's body with the caravan so Hester can bury him.
+- **Petra** takes Tobin's place at the reins.
+- **Tobin's body.** Let the party decide what to do with it, without saying that it matters. They can wrap it and carry it on a wagon to Harrowgate, bury it by the road, or leave it. Petra and Wil follow the party's lead. Note what the party chooses: **Hester's reaction and the party's bonus in Act 2 depend on it** (see [Hester's reaction](../../02-the-trail/adventures/01-following-the-trail.md#hesters-reaction)).
 - **The wooden horse** is in Tobin's coat pocket.
 - A character who comforts the teamsters (a DC 12 Charisma (Persuasion) check or a good bit of roleplay) steadies them. If nobody does, Wil slips away in the night and walks back to Millbrook, and the third wagon needs a new driver.
 
@@ -95,21 +96,16 @@ At Crow's Ford in the Ashwood, the wagons are stuck in knee-deep water when Sabl
 
 In a sunken lane on the last hill, with Harrowgate's walls in sight, the Crows block the road with a burning hay cart and throw torches at the wagons. A wagon on fire for three rounds is lost. Petra's signal horn brings the Harrowgate watch in round 5. If Sable escaped the ford, she leads this attack. **Leads:** the Crows' tracks lead northeast into the hills; a captured Crow knows about the lookout post.
 
-## 4. Arrival in Harrowgate
+## 4. On to Harrowgate
 
-Harrowgate is a walled market town at the end of the Old Trade Road. Marsh Freight's yard is just inside the west gate.
+Act 1 ends when the caravan rolls through Harrowgate's west gate on the evening of day 3. Meeting Hester Marsh, the party's pay, and the bonus for how they treated Tobin's body are all at the start of [Act 2: Following the Trail](../../02-the-trail/adventures/01-following-the-trail.md#1-arrival-in-harrowgate).
 
-**Hester Marsh** comes out to meet the caravan, sees Petra on the lead wagon, and understands before anyone speaks.
+Before moving on, note:
 
-> She stands very still. "Where is he?" Then, quieter: "Did he pay them?"
-
-Hester is grief-stricken but practical. She pays what Tobin promised and asks to hear everything. How she reacts depends on the caravan:
-
-- **All three wagons arrived:** She pays the full fee, and adds 10 gp each "because Tobin would have."
-- **One or more wagons were lost:** She still pays the full fee. "You brought him home. That matters more than salt."
-- **The party gives her the wooden horse** or delivers Tobin's last words: she breaks down for a moment, then her grief turns to resolve.
-
-Hester doesn't want revenge. She wants the road back. She tells the party that the town council of Harrowgate is offering a bounty for whoever ends the Crows, and that Marsh Freight will add to it. "The Rook thinks he can own this road. Prove him wrong." This leads into [Act 2: The Trail](../../02-the-trail/chapter.md).
+- what the party did with **Tobin's body** (carried it to Harrowgate, buried it by the road, or left it);
+- how many **wagons** survived;
+- whether the party has the **wooden horse** and heard **Tobin's last words**;
+- which **leads** the party has (below).
 
 ### The leads so far
 
@@ -117,15 +113,15 @@ Whatever happened, the party should leave Act 1 with at least one of these. If t
 
 | Lead | Where it comes from | Where it points |
 |---|---|---|
-| Crow-feather tokens stamped with a squat tower | Every Crow | The old toll fort in the hills |
-| Sable's toll ledger, with a trail sketch | Sable's saddlebag (Attack 2) | The hill trail and the fort |
-| Tracks heading northeast | Attack 3 site | The hill trail and the lookout post |
-| A captured Crow | Any attack | The lookout post, two days into the hills |
-| Oda the peddler's story | Road encounter 8 | Mirror signals from the hills to the northeast |
+| Crow-feather tokens stamped with a squat tower | Every Crow | The old toll fort in the woods (the tower is Ashwatch's mark) |
+| Sable's toll ledger, with a trail sketch | Sable's saddlebag (Attack 2) | A trail into the Ashwood, north of the road |
+| Tracks heading north | Attack 3 site | Brannoc's Crow camp at the eastern edge of the Ashwood |
+| A captured Crow | Any attack | A Crow camp in the woods near Harrowgate (see Act 2) |
+| Oda the peddler's story | Road encounter 8 | Lantern flashes in the treetops deep in the Ashwood |
 
 ## Rewards
 
-- **Pay:** 10 gp each up front and 40 gp (or 50 gp) each on arrival, plus Hester's bonus.
+- **Pay:** 10 gp each up front, and 40 gp (or 50 gp) each when Hester pays them at the start of Act 2, plus a bonus depending on what they did with Tobin's body.
 - **Loot:** Each Crow carries 1d6 sp and a crow-feather token. Gully carries 12 gp. Sable carries 25 gp and the toll ledger.
 - **Experience:** If you use milestones, the party should be close to level 4 by the end of Act 2. For XP, the three attacks are worth 1,900–2,350 XP in total for the whole party.
 

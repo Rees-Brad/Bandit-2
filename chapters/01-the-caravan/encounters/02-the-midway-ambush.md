@@ -39,8 +39,8 @@ Sable doesn't negotiate. She has her orders. A captured Crow can be questioned a
 
 ## What the party can learn
 
-- **Sable's saddlebag** (if she is caught, or a DC 13 Wisdom (Survival) check follows her trail back to the horse before she reaches it) holds a **toll ledger**. It lists the caravans that paid and the ones that refused, and Marsh Freight is circled. The back page has a rough sketch of a hill trail marked with the same squat tower as the crow-feather tokens. This is the strongest lead for Act 2.
-- **A captured Crow** knows Sable is the Rook's right hand and that she reports to "the old tower in the hills". They don't know the way there; scouts guide the new recruits.
+- **Sable's saddlebag** (if she is caught, or a DC 13 Wisdom (Survival) check follows her trail back to the horse before she reaches it) holds a **toll ledger**. It lists the caravans that paid and the ones that refused, and Marsh Freight is circled. The back page has a rough sketch of a trail leading north from the road into the Ashwood, marked with the same squat tower as the crow-feather tokens. This is the strongest lead for Act 2.
+- **A captured Crow** knows Sable is the Rook's right hand and that she reports to "the old fort in the woods". They don't know the way there; scouts guide the new recruits.
 
 ## Scaling
 

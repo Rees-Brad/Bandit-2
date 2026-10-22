@@ -2,7 +2,7 @@
 
 **Session 3. Level 3.**
 
-The party reaches the old toll fort where the Rook rules over the Crows. They can sneak in, bargain, or fight their way through, and in the end they confront the Rook.
+The party reaches Ashwatch, the old toll fort deep in the Ashwood where the Rook, the self-styled King of the Ashwood, holds court over the Crows. They can sneak in, bargain, or fight their way through, and in the end they confront the Rook.
 
 ## Place in the story
 

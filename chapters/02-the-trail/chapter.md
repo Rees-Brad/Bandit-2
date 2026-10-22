@@ -2,7 +2,7 @@
 
 **Session 2. Level 3.**
 
-In Harrowgate, the town offers a bounty to whoever stops the raids. The party follows the leads from Act 1 into the hills, finds the Crows' lookout post, and learns where the Rook is hiding and how his fort is guarded.
+The party arrives in Harrowgate and meets Hester Marsh, whose reaction, and the party's bonus, depend on what they did with Tobin's body. After a night at the Iron Harrow inn, Hester and Captain Roderick Vane of the town guard ask the party to find out why the Crows are attacking so often. In the town jail, the party questions a captured Crow in a skill challenge and learns of Brannoc, a Crow lieutenant camped in the Ashwood who knows the way to the Rook's fort. On the way to his camp, they meet a brown bear. By keeping Brannoc alive to question him, or by finding his hidden stash of documents, the party learns that the Rook sees himself as a king and that his base is Ashwatch, an old fort deep in the woods. Then they set out for it.
 
 ## Place in the story
 
@@ -15,4 +15,6 @@ In Harrowgate, the town offers a bounty to whoever stops the raids. The party fo
 
 ## Encounters
 
-1. [The Lookout Post](encounters/01-lookout-post.md)
+1. [The Bear](encounters/01-the-bear.md): Low, 200 XP
+2. [The Crow Camp](encounters/02-the-crow-camp.md): Moderate, 900 XP
+3. [The Lookout Post](encounters/03-lookout-post.md): to be written

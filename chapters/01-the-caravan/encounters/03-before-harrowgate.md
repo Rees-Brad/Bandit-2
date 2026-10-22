@@ -22,7 +22,7 @@ As an action, a bandit or tough within 30 feet of a wagon can throw a torch at i
 - A character can use an action to put out a burning wagon: smother it with a tarp, beat out the flames, or throw water on it. That ends the fire.
 - The teamsters will cut the horses free, but they won't fight.
 
-How much cargo survives decides how Hester Marsh greets the party in Harrowgate (see the [adventure](../adventures/01-guarding-the-caravan.md#arrival-in-harrowgate)).
+Hester Marsh notes any lost wagons when the caravan reaches Harrowgate, but doesn't hold them against the party (see [Act 2](../../02-the-trail/adventures/01-following-the-trail.md#1-arrival-in-harrowgate)).
 
 ## Help from Harrowgate
 
@@ -37,8 +37,8 @@ The teamster Petra carries a signal horn. If someone blows it (an action), the H
 
 ## What the party can learn
 
-- **Tracks.** The Crows came over the hills, not along the road. A DC 12 Wisdom (Survival) check shows a well-used trail heading northeast into the hills, the trail the party can follow in Act 2.
-- **A captured Crow** is frightened and will trade what they know for their life: the Crows have a lookout post on the hill trail, two days out, and the Rook's fort lies beyond it.
+- **Tracks.** The Crows didn't come along the road. A DC 12 Wisdom (Survival) check shows a well-used trail heading north toward the eastern edge of the Ashwood. It leads to Brannoc's camp in Act 2.
+- **A captured Crow** is frightened and will trade what they know for their life: the Crows at this end of the road come from a camp in the woods to the north, run by a lieutenant called Brannoc. They don't know where the Rook himself is; only Brannoc goes there.
 
 ## Scaling
 

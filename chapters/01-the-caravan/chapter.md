@@ -7,7 +7,7 @@ In a Millbrook tavern, coach driver Tobin Marsh hires the party to guard his thr
 ## Place in the story
 
 - **Comes from:** The adventure hook (see [campaign.md](../../campaign.md#using-this-adventure)).
-- **Leads to:** [Act 2: The Trail](../02-the-trail/chapter.md). In Harrowgate, Hester and the town council offer a bounty to end the Crows. The party brings leads from the attacks: crow-feather tokens, Sable's toll ledger, the raiders' tracks, or a captured Crow.
+- **Leads to:** [Act 2: The Trail](../02-the-trail/chapter.md), which begins as the caravan reaches Harrowgate. Note what the party did with Tobin's body; it decides Hester's reaction. The party brings leads from the attacks: crow-feather tokens, Sable's toll ledger, the raiders' tracks, or a captured Crow.
 
 ## Adventures
 

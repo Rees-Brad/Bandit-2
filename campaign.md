@@ -8,13 +8,13 @@ Protect a merchant caravan from bandits, track the bandits back to their hideout
 
 ## Overview
 
-A bandit lord who calls himself **the Rook** has taken over an abandoned toll fort beside the Old Trade Road. From it, his gang, the Crows, demand a "toll" from every traveler, and they rob any caravan that refuses to pay. Trade between the two towns at either end of the road is drying up.
+A bandit lord who calls himself **the Rook** has taken over Ashwatch, an abandoned toll fort deep in the Ashwood, the forest the Old Trade Road passes through. He wants to be the only boss in the region, and in his own mind he is already its king. From it, his gang, the Crows, demand a "toll" from every traveler, and they rob any caravan that refuses to pay. Trade between the two towns at either end of the road is drying up.
 
 ### Central arc
 
 1. **Act 1: The Caravan.** A caravan master in the starting town hires the party to guard a caravan on its three-day journey along the road. The Crows attack, and the party drives them off. A bandit taken alive, a dropped token, or the tracks the raiders leave point back toward their hideout.
-2. **Act 2: The Trail.** The town at the end of the road offers a bounty to whoever stops the raids. The party follows the leads from the attack, finds the gang's lookout post, and learns where the Rook is hiding and how the fort is guarded.
-3. **Act 3: The Bandit Lord.** The party reaches the old toll fort. They can sneak in, bargain, or fight their way through, and in the end they confront the Rook.
+2. **Act 2: The Trail.** In Harrowgate, the driver's cousin and the captain of the guard ask the party to find out why the attacks have grown. A captured Crow, if the party can make him talk, leads them to the camp of Brannoc, a Crow lieutenant in the woods. By questioning Brannoc or finding his hidden stash of documents, the party learns that the Rook sees himself as a king and where his fort is, and sets out for it.
+3. **Act 3: The Bandit Lord.** The party reaches Ashwatch, the old fort in the woods. They can sneak in, bargain, or fight their way through, and in the end they confront the Rook.
 
 The main arc is open: the party can choose how to find the hideout, whether to fight or talk, and what to do with the Rook and his gang.
 

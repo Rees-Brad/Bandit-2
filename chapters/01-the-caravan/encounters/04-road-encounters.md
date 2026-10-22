@@ -55,7 +55,7 @@ Thick webs stretch between the trees across the road, with old wrapped bundles h
 
 ## 6. Goblin raiders
 
-A goblin war band has come down from the hills, trying to get its share of the road before the Crows take all of it. Four goblin warriors shoot from the rocks, using Nimble Escape to hide between shots, while the goblin boss waits for an opening to grab a crate. The goblins hate the Crows. A captured goblin will happily say that "the tower men" took the goblins' old hills, and point northeast.
+A goblin war band has come down from the hills, trying to get its share of the road before the Crows take all of it. Four goblin warriors shoot from the rocks, using Nimble Escape to hide between shots, while the goblin boss waits for an opening to grab a crate. The goblins hate the Crows. A captured goblin will happily say that "the tower men" drove the goblins out of the deep Ashwood, and point north into the trees.
 
 - **Weaker party:** 3 goblin warriors and no boss. **Stronger party:** 6 goblin warriors and the boss.
 
@@ -67,7 +67,7 @@ A wrecked wagon lies beside the road with dead travelers, a family that wouldn't
 
 ## 8. The robbed peddler
 
-A tinker named Oda walks the road toward Millbrook, leading a donkey with empty saddlebags. The Crows took everything she had. She tells the party that the Crows "have eyes all along the road", that a lieutenant called Sable runs the ambushes, and that the Rook "wants every coin between the two towns to pass through his hands". If the party gives her food or coin, she adds that she saw the Crows' lookouts signal with mirrors from the hills to the northeast.
+A tinker named Oda walks the road toward Millbrook, leading a donkey with empty saddlebags. The Crows took everything she had. She tells the party that the Crows "have eyes all along the road", that a lieutenant called Sable runs the ambushes, and that the Rook "thinks he's a king, and the rest of us are his peasants". If the party gives her food or coin, she adds that she has seen lanterns flashing in the treetops deep in the Ashwood at night, like signals.
 
 ## Stat blocks
 
